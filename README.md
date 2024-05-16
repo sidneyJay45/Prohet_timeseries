@@ -1,5 +1,5 @@
 # fbprophet
-#Using Prophet for Forecasting and Determining Trend and Seasonality of Avocado Average Prices
+Using Prophet for Forecasting and Determining Trend and Seasonality of Avocado Average Prices
 
 In today's dynamic and data-driven world, businesses and researchers often face the challenge of accurately forecasting market trends and behaviors.
 
